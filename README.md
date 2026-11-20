@@ -1,8 +1,8 @@
 # Railway-Reservation-System
 
-# Reg No:
-# Name:
-# Date:
+# Reg No: 212225230249
+# Name: SANTHOSHKUMAR J
+# Date: 20.11.2026
 
 
 # AIM:
@@ -42,6 +42,7 @@ Specifying the context and requirements of a system
 
 
 
+<img width="1118" height="886" alt="railway reservation" src="https://github.com/user-attachments/assets/a76f2f86-40e0-4185-a463-191ace28cc7c" />
 
 
 
@@ -59,6 +60,7 @@ Visually express any specific needs of a system and disseminate that information
 
 Create detailed charts that…
 
+<img width="1127" height="897" alt="railway reservation class diagram" src="https://github.com/user-attachments/assets/20d7a44d-91af-4bd5-a9bb-61a02654cd06" />
 
 
 # COMMUNICTION DIAGRAM:
@@ -68,6 +70,7 @@ A communication diagram offers the same information as a sequence diagram, but w
 Communication diagrams offer benefits similar to sequence diagrams, but they will offer a better understanding of how components communicate and interact with each other rather than solely emphasizing the sequence of events. They can be a useful reference for businesses, organizations, and engineers who need to visualize and understand the physical communications within a program. Try drawing a sequence diagram to:
 
 
+<img width="928" height="720" alt="Screenshot 2026-11-20 094052" src="https://github.com/user-attachments/assets/09145003-b1cd-42ad-9b37-05d1b3d30340" />
 
 
 # PACKAGE DIAGRAM:
@@ -81,6 +84,7 @@ A well-designed package diagram provides numerous benefits to those looking to c
 
 
 
+<img width="1118" height="888" alt="railway reservation package diagram" src="https://github.com/user-attachments/assets/b54b93e2-9a4e-4a63-8263-55ca86ee8a4f" />
 
 
 
@@ -98,6 +102,7 @@ Demonstrate the logic of an algorithm.
 Describe the steps performed in a UML use case.
 
 
+<img width="1116" height="887" alt="railway reservation activity diagram" src="https://github.com/user-attachments/assets/432bb9f4-f824-4256-896d-3694f8aaba70" />
 
 
 
@@ -120,6 +125,7 @@ Plan and understand the detailed functionality of an existing or future scenario
 
 
 
+<img width="1117" height="886" alt="railway reservation sequence diagram" src="https://github.com/user-attachments/assets/eca0a6c8-2ef0-44a6-a8ca-83914250160e" />
 
 
 
